@@ -84,6 +84,23 @@ print(sm)
 ![image](https://github.com/user-attachments/assets/3df85da1-b11e-4415-b1b5-ffcfe74f9386)
 
 # programa #4
+print("")
+#DEfinir variables y preguntar al usuario
+print("Alfaro Ibarra Sheccid 3W 1171 hayar el perimetro y area de un rectangulo")
+b1=float(input("Incerta el numero de la base de ancho"))
+al=float(input("Incerta la altura"))
+#definir variable y hacer operaciones
+p=b1 + b1 + al + al
+h=b1*al
+#Mostrar en pantalla
+print("El perimetro es:")
+print(p)
+print("EL area es:")
+print(h)
+![image](https://github.com/user-attachments/assets/6b5f2ab3-c9bc-4617-9a2a-d129e11a321a)
+![image](https://github.com/user-attachments/assets/1d55e0dd-a699-4dea-9713-f0dc0176c097)
+
+
 
 
 
