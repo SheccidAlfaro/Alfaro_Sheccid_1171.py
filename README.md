@@ -63,7 +63,7 @@ else:
 
     ![image](https://github.com/user-attachments/assets/f7e37741-1a16-400b-b40b-5e5e97a9ea2f)
     ![image](https://github.com/user-attachments/assets/0064b6d5-dfce-45f7-a2af-3d125bb8621c)
-#Programa#3
+# Programa#3
 print("")
 print("Alfaro_Ibarra_Sheccid_3w_1171")
 #se define y se requiere poner dos numeros que el usuario introduzca
@@ -83,7 +83,7 @@ print(sm)
 ![image](https://github.com/user-attachments/assets/5799792a-c8e5-4f92-8c37-bbe941431002)
 ![image](https://github.com/user-attachments/assets/3df85da1-b11e-4415-b1b5-ffcfe74f9386)
 
-#programa #4
+# programa #4
 
 
 
