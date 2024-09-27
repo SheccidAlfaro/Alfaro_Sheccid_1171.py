@@ -100,13 +100,25 @@ print(h)
 ![image](https://github.com/user-attachments/assets/6b5f2ab3-c9bc-4617-9a2a-d129e11a321a)
 ![image](https://github.com/user-attachments/assets/1d55e0dd-a699-4dea-9713-f0dc0176c097)
 
-
-
-
-
+# programa #5
+print("")
+print("Sheccid Alfaro Ibarra 3w, 11721 numeros naturales")
+#SE define y se pregunta al usuario
+nmt=int(input("Ingrese un numero natural:"))
+#Se utiliza if para saner si es numero natural y si es impar
+if nmt <=12:
+    print("Esta entre los numeros naturales.")
+else:
+    print("No esta entre los numeros naturales.")
     
+if nmt % 2 == 0 :
+    print("es par")#una de las condiciones
+#en caso de que la primera opcion sea falsa
+else:
+    print("es impar")#una de las condiciones
 
-
+![image](https://github.com/user-attachments/assets/f5a4bbd3-d0d0-4400-b03c-48b8ba64c900)
+![image](https://github.com/user-attachments/assets/ac57b677-3ce5-473d-957d-4a772fa8936f)
 
 
 
